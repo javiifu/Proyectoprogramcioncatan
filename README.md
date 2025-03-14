@@ -1,3 +1,3 @@
 # Proyecto programcion catan
 
-Te recomiendo muchisimo que te leas mientras vas mirando el código el pdf. 
+A project I did for the Institute. I tried to create the Catan Board Game but i've got some problems. I'm improving it. 
